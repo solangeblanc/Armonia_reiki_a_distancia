@@ -1,6 +1,6 @@
 # 🌸 ARMONIA - Reiki a Distancia (v1.0.0)
 
-**ARMONIA** es una aplicación de escritorio diseñada para la gestión integral de un Studio Holístico. Esta herramienta permite a las terapeutas (**Luna, Flor y Luciana**) llevar un registro detallado de sus consultantes, sesiones de Reiki y otras terapias, manteniendo la organización y la calidez que el espacio requiere.
+**ARMONIA** es una aplicación de escritorio diseñada para la gestión integral de un Studio Holístico. Esta herramienta permite a las terapeutas llevar un registro detallado de sus consultantes, sesiones de Reiki y otras terapias, manteniendo la organización y la calidez que el espacio requiere.
 
 ---
 
