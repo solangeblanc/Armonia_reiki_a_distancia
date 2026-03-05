@@ -1,0 +1,14 @@
+# No subir la base de datos local (si usas SQLite)
+*.db
+*.sqlite3
+
+# No subir archivos de respaldo con datos de clientes
+Respaldo_*.txt
+
+# No subir carpetas de configuración de Python
+__pycache__/
+venv/
+.env
+
+# No subir el ejecutable .exe si lo generaste
+*.exe
