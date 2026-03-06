@@ -29,9 +29,9 @@
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python 3.12.5
 * **Interfaz Gráfica:** `CustomTkinter` (Diseño moderno y adaptativo).
-* **Base de Datos:** SQL (Estructura relacional).
+* **Base de Datos:** SQL (Estructura relacional), Supabase
 * **Reportes:** `FPDF` para la creación de documentos PDF.
 * **Navegación:** `Webbrowser` para la integración con WhatsApp Web.
 
